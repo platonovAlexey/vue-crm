@@ -38,7 +38,6 @@ Vue.use(titlePlugin);
 Vue.use(Vuelidate);
 Vue.use(VueMeta);
 
-
 firebase.initializeApp({
   apiKey: 'AIzaSyBwQ1pZJBC8zDQ5j68D4rHiKojtN3tgSlI',
   authDomain: 'vue-crm-5dfe4.firebaseapp.com',
